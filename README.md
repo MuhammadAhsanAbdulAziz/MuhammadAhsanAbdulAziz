@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development and Game Development (Unity))**
 
-- 👯 I’m looking to collaborate on **Android projects and open source Technolog**
+- 👯 I’m looking to collaborate on **Android projects and open source Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadAhsanabdulaziz](https://github.com/muhammadAhsanabdulaziz)
 
