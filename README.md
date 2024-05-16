@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsan bin Abdul Aziz</h1>
-<h3 align="center">Android Developer and Student of CS</h3>
+<h3 align="center">Mobile App Developer and Student of CS</h3>
 
-- 🔭 I’m currently working on **Android native Applications and Algorithms**
+- 🔭 I’m currently working on **Android,IOS and Flutter Applications and Algorithms**
 
-- 🌱 I’m currently learning **Android Development and Game Development (Unity))**
+- 🌱 I’m currently learning **Android Development and IOS Development)**
 
 - 👯 I’m looking to collaborate on **Android projects and open source Technology**
 
